@@ -1,2 +1,2 @@
 # Tinder-Analysis
-Repository for analytical projects in Python.
+This project looks into Tinder data
